@@ -1,5 +1,5 @@
 # Restructuring_VectorPostalAddress_DataFrame
-Reestruturação de uma tabela de dados vetoriais de endereço, para um arquivo 'csv' de consulta de CEP e endereço.
+Reestruturação de uma tabela de dados vetoriais de endereço, em um arquivo 'csv' de consulta de CEP e endereço.
 
 Esse exercício consistiu em transformar uma tabela de uma base vetorial de endereços em uma outra tabela simplificada para consulta de CEP e endereço contendo a maior e menor numeração de cada logradouro por CEP.
 
