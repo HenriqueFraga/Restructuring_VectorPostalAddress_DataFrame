@@ -1,6 +1,8 @@
 # Restructuring_VectorPostalAddress_DataFrame
 Reestruturação de uma tabela de dados vetoriais de endereço, em um arquivo 'csv' de consulta de CEP e endereço.
 
+05/01/2021
+
 Esse exercício consistiu em transformar uma tabela de uma base vetorial de endereços em uma outra tabela simplificada para consulta de CEP e endereço contendo a maior e menor numeração de cada logradouro por CEP.
 
 A tabela original, por ser vetorial, continha muitos segmentos de linha para cada logradouro. Outra característica é que ela continha duas colunas para CEP, do lado esquerdo e direito da rua. O mesmo para a numeração do logradouro: numeração inicial e final de cada segmento de linha para os dois lados da rua - num total de quatro colunas de numeração.
